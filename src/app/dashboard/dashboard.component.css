@@ -1,0 +1,17 @@
+.btn-success{
+    background-color: #1c6288;
+    font-size: 19px;
+    border-radius: 5px;
+    padding: 7px 14px;
+    border: 1px solid #daf1ff;
+    color: #fff;
+    float: right;
+}
+.btn-success:hover{
+    background-color: #13445e;
+    border: 1px solid #daf1ff;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
